@@ -1,0 +1,28 @@
+{
+  "name": "social-globe",
+  "version": "1.0.0",
+  "description": "Feeding the hungry hungry data hippo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/komalley97/SocialMediaGlobe.git"
+  },
+  "author": "Kevin O'Malley and Jack Nolan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/komalley97/SocialMediaGlobe/issues"
+  },
+  "homepage": "https://github.com/komalley97/SocialMediaGlobe#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "eslint": "^8.7.0",
+    "eslint-config-google": "^0.14.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-plugin-prettier": "^4.0.0",
+    "socket.io": "^4.4.1",
+    "twitter-api-v2": "^1.9.1"
+  }
+}
